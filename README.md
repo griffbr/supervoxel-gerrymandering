@@ -7,7 +7,7 @@ Version: 1.0
 
 This is the source code implementation for the following paper (cite this paper):
 Griffin, B. and Corso, J. "Video Object Segmentation using Supervoxel-Based Gerrymandering"
-(include archive link)
+http://arxiv.org/abs/1704.05165
 
 -------------------------------------------------------------------------------------------
 

@@ -19,7 +19,7 @@ for i=1:length(seg.path.data_list)
     % Save Output Mask / Video.
     segmentationOutput(seg);
     % Clear video-specific data.
-    seg.cur = 0; fprintf('\n'); 
+    fprintf('\n'); 
 end
 
 end
